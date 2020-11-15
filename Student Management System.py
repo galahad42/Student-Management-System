@@ -143,7 +143,7 @@ def close():
 #----------------------------------------------------------------Shows Project's Info in a Message Box-------------------------------------------------#
 
 def info():
-    msg.showinfo("Info","Student Management System by - Amrit Anand and Yash Kumar.")
+    msg.showinfo("Info","Student Management System by - Amrit Anand and Yash Kumar  Class- 12-A")
 
 #----------------------------------------------------------------Shows Feedback of User-------------------------------------------------#
 
