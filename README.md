@@ -1,1 +1,1 @@
-Please put all images in "C:" drive before running the script
+Put all the contents of "SFS" folder in "C:" drive before running the script

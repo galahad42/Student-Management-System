@@ -5,7 +5,7 @@
 
 
 #----------------------------------------------------------------Imported Required Modules--------------------------------------------------#
-
+  
 from tkinter import *
 import tkinter.messagebox as msg
 from PIL import Image,ImageTk
@@ -143,7 +143,7 @@ def close():
 #----------------------------------------------------------------Shows Project's Info in a Message Box-------------------------------------------------#
 
 def info():
-    msg.showinfo("Info","Student Management System by - Amrit Anand and Yash Kumar  Class- 12-A")
+    msg.showinfo("Info","Student Management System for St. Francis School. This GUI is built in python")
 
 #----------------------------------------------------------------Shows Feedback of User-------------------------------------------------#
 
